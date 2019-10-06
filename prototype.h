@@ -8,3 +8,10 @@ typedef struct wd{
   char word[255];
   int length;
 }word;
+
+int checkWord(word *setOfWord, int amountSetOfWord, char *word);
+void sortSetOfWord(word *setOfWord, int amountSetOfWord);
+void menu();
+void writeToFile(word *setOfWord, int amountSetOfWord);
+void showSetOfWord(word *setOfWord, int amountSetOfWord);
+int addWord(word *setOfWord, int amountSetOfWord, char *word);

@@ -1,0 +1,4 @@
+saya, banyak : 3, panjang : 4
+belajar, banyak : 2, panjang : 7
+pemrograman, banyak : 1, panjang : 11
+sedang, banyak : 1, panjang : 6
